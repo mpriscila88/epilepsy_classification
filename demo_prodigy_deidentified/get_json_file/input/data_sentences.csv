@@ -1,0 +1,106 @@
+,PatientID,Date,sentences
+0,Z0,9/99/9999,"Patient ID: Z0 Date: 9/99/9999
+
+
+s0_sentence_1 assessment and plan 1. partial seizure assessment plan asking about taking a hemp deriived cbd for sleep as well as about medical marijuana for sleep.
+
+
+s0_sentence_2 i told him either or both are not likely to be detrimental to his seizure control and if there really is a benefit on sleep then the net effect would be positive.
+
+
+s0_sentence_3 other orders levetiracetam keppra 500 mg tablet dispense 405 tablet refill 3 problem detail.
+
+
+s0_sentence_4 problem partial seizure semiology mostly nocturnal rarely during the day.
+
+
+s0_sentence_5 description has always been of generalized tonicclonic movements mri2 mris done during his teenage years have been normal eegcontinuous eeg monitoring performed.
+
+
+s0_sentence_6 also at anticonvulsants that have failed include phenytoin carbamazepine valproate gabapentin levetiracetam and zoinisamide currently taking levetiracetam and zonisamde.
+
+
+s0_sentence_7 cardiovascular negative for palpitations and syncope.
+
+
+s0_sentence_8 neurological negative for difficulty with concentration disturbances in coordination excessive daytime sleepiness dizziness focal weakness headaches loss of balance numbness tremors and vertigo.
+
+
+s0_sentence_9 medications at the close of this visit current meds current outpatient medications levetiracetam keppra 500 mg tablet take 3 tablets 1500 mg total by mouth every morning and 1.5 tablets 750 mg total every evening.
+
+
+s0_sentence_10 disp 405 tablet rfl 3 last dispense unknown outside pharmacy zonisamide zonegran 100 mg capsule take 3 capsules 300 mg total by mouth 2 two times a day.
+
+
+s0_sentence_11 assessment and plan 1. partial seizure assessment plan is doing well with good seizure control and a few side effects.
+
+
+s0_sentence_12 i told him that they are unlikely to be detrimental to his seizure control and if there really is a benefit on sleep then the net effect would be positive.
+
+
+s0_sentence_13 he also like to continue the current combination of zonisamide and levetiracetam.
+
+"
+1,Z1,9/99/10000,"Patient ID: Z1 Date: 9/99/10000
+
+
+s1_sentence_1 epilepsy service neurocritical care service massachusetts general hospital department of neurology cc md dear i had the pleasure of seeing mrn dob in epilepsy clinic today for chief complaint of seizures and traumatic brain injury.
+
+
+s1_sentence_2 she was brought to the ed by ems and enroute had a 20 second generalized seizure.
+
+
+s1_sentence_3 she was continued on levetiracetam.
+
+
+s1_sentence_4 she has not had any episodes concerning for seizures.
+
+
+s1_sentence_5 there were no witnessed convulsions and the likely diagnosis was thought to be syncope.
+
+
+s1_sentence_6 unclear if this could have been syncopal.
+
+
+s1_sentence_7 she is continuing to take the keppra without any adverse effects.
+
+
+s1_sentence_8 past medical history has a past medical history of hyperlipidemia hypertension multiple thyroid nodules stage iii chronic kidney disease type 2 diabetes mellitus and vitamin d deficiency.
+
+
+s1_sentence_9 100 each 3 unknown outside pharmacy levetiracetam keppra 500 mg5 ml 5 ml soln 7.5 ml 750 mg total by gastrostomy tube route 2 two times a day.
+
+
+s1_sentence_10 family history family history includes diabetes in her brother and paternal aunt hyperlipidemia in her brother.
+
+
+s1_sentence_11 gait not assessed patient on stretcher data eeg left and right frontal sharp discharges from mri mri images from the admission.
+
+
+s1_sentence_12 there is a right temporal hematoma also stable on scans.
+
+
+s1_sentence_13 assessment and impression in summary ms is a 80 year old female with an acute symptomatic seizure secondary to traumatic brain injury.
+
+
+s1_sentence_14 she has not had any seizures since her discharge.we will obtain a routine eeg to guide risk stratification.
+
+
+s1_sentence_15 based on eeg results will review risk vs. benefits for weaning off keppra.
+
+
+s1_sentence_16 we discussed that while her seizure recurrence risk is elevated due to the acute seizure as they only occurred during the immediate acute phase it is reasonable to consider weaning keppra especially if she is having any adverse effects.
+
+
+s1_sentence_17 loss of consciousness episode one month ago per description likely syncopal vs. hypoglycemia.
+
+
+s1_sentence_18 wil obtain discharge summary from .
+
+
+s1_sentence_19 she may need additional syncope work up including cardiac monitor if not done recently.
+
+
+s1_sentence_20 epilepsy safety measures including no driving within 6 months of a seizure or episode of lost consciousness showering rather than bathing medication compliance substance use avoidance and sleep hygeine were discussed.
+
+"

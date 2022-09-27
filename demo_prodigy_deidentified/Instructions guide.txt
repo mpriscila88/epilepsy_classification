@@ -1,0 +1,34 @@
+#######################################
+# Get json files
+#--------------------------------------
+
+1. Run 1_create_sentences.py
+
+2. Run 2_match_patterns.py
+
+#######################################
+# Commands for prodigy API
+#--------------------------------------
+
+1. Open anaconda prompt cmd
+
+2. cd (space) drag folder to cmd window (folder prodigy_api must contain patterns and data_sentences_matches)
+
+3. python -m prodigy drop epilepsy_classification_task (if there is a previous task with this name)
+
+4. Replace "keyword" by "Epilepsy" (or any other label of interest) on original keywords file: pattern_0317.jsonl (this file can be manually created)
+
+5. python -m prodigy textcat.teach epilepsy_classification_task en_core_web_sm ./data_sentences_matched.json --label keyword --patterns ./pattern_0317.jsonl
+
+6. Open browser (annotation tool): http://localhost:8080/ (local host port can be changed if needed)
+
+7. Repeat steps 1 and 2 (Open a new anaconda prompt cmd)
+
+8. Save prodigy labels in the API directly and run in cmd: python -m prodigy db-out epilepsy_classification_task > ./classification_output.jsonl
+
+9. Run classification_output_json_to_csv.py
+
+10. After the annotation process is done (all labels annotated), in case you want to train prodigy model:
+python -m prodigy train en_core_web_sm --textcat-multilabel epilepsy_classification_task --eval-split 0.2
+
+11. evaluate_model.py explains how to get the scores/probabilites from prodigy model. Other types of models can also be ran with the annotated labels.
